@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "queue_functions.h": "c",
+        "queue_screens.h": "c"
+    }
+}
